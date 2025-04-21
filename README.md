@@ -18,8 +18,14 @@ Useful for learning Node.js basics like:
 ## 🛠️ Setup Instructions
 
 **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/task-manager-api.git
-   cd task-manager-api
-   npm install
+
+```bash
+git clone https://github.com/your-username/task-manager-api.git
+cd task-manager-api
+npm install
 node app.js
+git clone https://github.com/your-username/task-manager-api.git
+cd task-manager-api
+npm install
+node app.js
+```
